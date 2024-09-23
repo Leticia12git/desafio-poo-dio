@@ -1,4 +1,4 @@
-``` 
+``` mermaid
 
     class Bootcamp {
         -String name
