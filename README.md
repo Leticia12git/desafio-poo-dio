@@ -1,5 +1,5 @@
-``` mermaid
-
+```mermaid
+classDiagram
     class Bootcamp {
         -String name
         -String description
